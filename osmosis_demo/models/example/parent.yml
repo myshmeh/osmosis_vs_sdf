@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: parent
+    columns:
+      - name: columnA
+        description: Column A Description!
+      - name: column_b
+        description: Column B Description!

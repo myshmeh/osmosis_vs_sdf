@@ -1,0 +1,6 @@
+version: 2
+models:
+  - name: child3
+    columns:
+      - name: column_b
+      - name: columnA
